@@ -61,7 +61,7 @@ To make this chatbot useful:
 
 ### How to run this
 ### 1. Clone the Repository
-- git clone https://github.com/SohaibBazaz/rag-university-chatbot.git
+- git clone https://github.com/nikhillanje/University-Admissions-Bot.git
 - cd rag-university-chatbot
 
 ### 2. Install Libraries:
@@ -78,10 +78,6 @@ To make this chatbot useful:
 - Add Urdu language support.
 
 
-## Team Members
-
-- Sohaib Ahmed Bazaz
-- Muhammad Umar 
 
 
 
